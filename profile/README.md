@@ -17,6 +17,11 @@ Lightweight, declarative HTTP and gRPC middleware package for exporting standard
 - **[GoLens: Mutant](https://github.com/GoLens-Project/golens-mutant)** · Declarative mutation testing for Go. Introduces AST-level code mutations to measure test suite resilience beyond line coverage, flagging weak assertions and untested paths with detailed mutation score reports.
 - **[HodlBook](https://github.com/HodlBook/hodlbook)** · Self-hosted cryptocurrency portfolio tracker in Go (Gin + SQLite, HTMX frontend) that records deposits, withdrawals, and exchanges to show allocation and profit by reference currency.
 
+## Shipped Projects
+
+- **[Arete](https://areteoikos.com.br)** · Freelance SaaS for homeschooling families built around a classical education (Trivium) curriculum and a 52-week virtue formation program. Multi-tenant Go (Gin) + SQLite backend, Flutter PWA frontend, deployed on Dokku behind Cloudflare.
+- **[HodlBook](https://hodlbook.app)** · Crypto portfolio tracker for manual asset management, started from the [open source version](https://github.com/HodlBook/hodlbook) and since evolved well beyond it: live prices over SSE, ACB-based P/L tracking, multi-wallet management, planning panel, and Stripe/Plisio subscriptions, on Go + HTMX web and Flutter apps.
+
 ## Toolbox
 
 **Languages:** Go, Python, SQL, TypeScript, Dart  
